@@ -11,6 +11,7 @@ npx run dev
 
 ## Features
 
+- Full responsive
 - Build on Next.js 13 with app directory structure
 - Full ts typing
 - Radix UI

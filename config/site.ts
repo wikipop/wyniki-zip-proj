@@ -1,6 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
+  author: {
+    name: "Wiktor Popiołek",
+  },
   name: "Wyniki.zip",
   description:
     "wyniki.zip - Twoje rozwiązanie do profesjonalnej analizy danych i generowania raportów biznesowych. Odkryj potencjał swojego biznesu dzięki precyzyjnym wynikom i rekomendacjom.",
@@ -16,7 +19,7 @@ export const siteConfig = {
   ],
   links: {
     instagram: "https://www.instagram.com/wiktor_popiolek/",
+    signIn: "/signin",
     github: "https://github.com/wikipop/wyniki-zip-proj",
-    docs: "https://example.com",
   },
 }
