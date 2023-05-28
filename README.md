@@ -1,11 +1,12 @@
 # next-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A Next.js 13 app build with Radix UI and Tailwind CSS.
 
-## Usage
+## Start up
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+npm install
+npx run dev
 ```
 
 ## Features
@@ -15,7 +16,6 @@ npx create-next-app -e https://github.com/shadcn/next-template
 - Fonts with `next/font`
 - Icons from [Lucide](https://lucide.dev)
 - Dark mode with `next-themes`
-- Automatic import sorting with `@ianvs/prettier-plugin-sort-imports`
 - Tailwind CSS class sorting, merging and linting.
 
 ## License
