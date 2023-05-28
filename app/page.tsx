@@ -7,13 +7,12 @@ export default function IndexPage() {
   return (
     <section className="container grid items-center gap-6 pb-8 pt-6 md:py-10">
       <div className="flex max-w-[980px] flex-col items-start gap-2">
-        <h1 className="text-3xl font-extrabold leading-tight tracking-tighter sm:text-3xl md:text-5xl lg:text-6xl">
-          Beautifully designed components <br className="hidden sm:inline" />
-          built with Radix UI and Tailwind CSS.
+        <h1 className="text-3xl font-extrabold leading-tight tracking-tighter sm:text-3xl md:text-4xl lg:text-6xl">
+          Twój partner w analizie danych i generowaniu wartościowych raportów!
         </h1>
         <p className="max-w-[700px] text-lg text-muted-foreground sm:text-xl">
-          Accessible and customizable components that you can copy and paste
-          into your apps. Free. Open Source. And Next.js 13 Ready.
+          Twoje rozwiązanie do profesjonalnej analizy danych i generowania raportów biznesowych.
+          Wszystko w jednym miejscu, w przeglądarce internetowej.
         </p>
       </div>
       <div className="flex gap-4">
@@ -23,7 +22,7 @@ export default function IndexPage() {
           rel="noreferrer"
           className={buttonVariants({ size: "lg" })}
         >
-          Documentation
+          Dokumentacja
         </Link>
         <Link
           target="_blank"
