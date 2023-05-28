@@ -11,10 +11,10 @@ npx run dev
 
 ## Features
 
-- Radix UI Primitives
+- Build on Next.js 13 with app directory structure
+- Full ts typing
+- Radix UI
 - Tailwind CSS
-- Fonts with `next/font`
-- Icons from [Lucide](https://lucide.dev)
 - Dark mode with `next-themes`
 - Tailwind CSS class sorting, merging and linting.
 

@@ -16,7 +16,7 @@ export const siteConfig = {
   ],
   links: {
     instagram: "https://www.instagram.com/wiktor_popiolek/",
-    github: "https://github.com/wikipop",
+    github: "https://github.com/wikipop/wyniki-zip-proj",
     docs: "https://example.com",
   },
 }
